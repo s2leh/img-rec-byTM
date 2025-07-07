@@ -20,7 +20,7 @@ Set Up Python Environment
 
 i did't in anaconda
 
-Step 3:
+# Step 3:
 Copy The Python Code From Teachable Machine, Then Create a Python script and paste the code
 
 # Step 4:
